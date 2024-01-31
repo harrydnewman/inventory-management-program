@@ -1,0 +1,7 @@
+harry,1,Manager,NULL,;
+b,2,Customer,17.0,;
+
+joe,mama,Manager,NULL;
+harry,n,Manager,NULL;
+jeojoe,l,Customer,NULL;
+test,user,Customer,NULL;
